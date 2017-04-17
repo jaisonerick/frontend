@@ -1,0 +1,11 @@
+.DS_Store
+
+.idea/
+/*.lock.db
+/*.trace.db
+/dist/
+/node_modules/
+/.babel_cache
+
+npm-debug.log
+yarn-error.log
